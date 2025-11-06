@@ -78,6 +78,7 @@ font-size: 30px;
 .skills ul {
   list-style: none;
   padding: 0;
+text-align: center;
 }
 .skills li {
   background-color: #eee;
@@ -85,6 +86,7 @@ font-size: 30px;
   padding: 10px 20px;
   border-radius: 5px;
   display: inline-block;
+  
 }
 /* prpjects */
 .projects {

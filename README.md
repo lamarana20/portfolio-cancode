@@ -28,3 +28,4 @@ I love building modern, scalable web applications with a focus on **code quality
 ---
  Thanks for visiting my portfolio!
 Feel free to reach out for collaboration, freelance projects, or just to chat about web development.
+
