@@ -1,6 +1,6 @@
 # 👨‍💻 Mamadou Lamarana Diallo — Full-Stack Developer
 
-![portfolio-CanCode Preview](https://raw.githubusercontent.com/lamarana20/E-commerce-react-js/main/public/preview.jpg)
+
 
 Welcome to my portfolio!  
 This README highlights my journey, technical skills, and the projects I build as a **full-stack web developer** passionate about clean UI, performance, and modern web technologies.
