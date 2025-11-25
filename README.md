@@ -1,31 +1,81 @@
-# Mamadou Lamarana Diallo — Portfolio
+# 👨‍💻 Mamadou Lamarana Diallo — Full-Stack Developer
 
-Welcome to my personal portfolio!  
-This site showcases my recent projects, technical skills, and journey as a **full-stack web developer** passionate about performance, innovation, and clean design.
+![portfolio-CanCode Preview](https://raw.githubusercontent.com/lamarana20/E-commerce-react-js/main/public/preview.jpg)
 
-## About Me
+Welcome to my portfolio!  
+This README highlights my journey, technical skills, and the projects I build as a **full-stack web developer** passionate about clean UI, performance, and modern web technologies.
 
-I'm **Mamadou Lamarana Diallo**, a full-stack developer specialized in **Laravel**, **Vue.js**, **React**, **JavaScript**, **HTML**, and **CSS**.  
-I love building modern, scalable web applications with a focus on **code quality**, **security**, and **user experience**.
-
--  Currently working on: modern web apps (API + frontend)
-- Learning more about: Cloud, DevOps, and Artificial Intelligence
-- Passionate about: creating useful and beautiful digital solutions
-- Based in Albany / Clifton Park, NY, USA
-
-## Skills
-
-- **Frontend:** React, Vue.js, Tailwind CSS, Astro, Bootstrap  
-- **Backend:** Laravel, PHP, Node.js (REST APIs)  
-- **Databases:** MySQL, PostgreSQL  
-- **Tools:** Git, Docker, Vite, VS Code, Render, Laravel Cloud  
-
-## Featured Projects
--it comming
-
-
- Explore all my projects at https://lamaranadiallo.com
 ---
- Thanks for visiting my portfolio!
-Feel free to reach out for collaboration, freelance projects, or just to chat about web development.
 
+## 🔥 About Me
+
+I'm **Mamadou Lamarana Diallo**, a full-stack developer specializing in:
+
+- **Laravel**
+- **React**
+- **Vue.js**
+- **JavaScript / TypeScript**
+- **HTML • CSS • Tailwind**
+
+I love creating **modern, scalable, and user-friendly applications**, focusing on:
+
+- Clean and maintainable code  
+- Strong backend architecture  
+- Fast, responsive UI  
+- Real-world problem solving  
+
+📍 Based in **Albany / Clifton Park, NY — USA**
+
+---
+
+## 🛠️ Skills
+
+### **Frontend**
+- React  
+- Vue.js  
+- Tailwind CSS  
+- Astro  
+- Bootstrap  
+- Vite  
+
+### **Backend**
+- Laravel  
+- PHP  
+- Node.js (REST APIs)  
+
+### **Databases**
+- MySQL  
+- PostgreSQL  
+
+### **Tools**
+- Git  
+- Docker  
+- VS Code  
+- Render  
+- Netlify  
+- Laravel Cloud  
+
+---
+
+## ⭐ Featured Projects
+
+> *(More projects are being added — stay tuned!)*
+
+🔗 **Explore all my projects:**  
+👉 https://lamaranadiallo.com
+
+---
+
+## 🤝 Contact Me
+
+Feel free to reach out for collaboration, freelance work, or tech discussions!
+
+📩 **Email:**  
+`mamadoulamakalinko628@gmail.com`
+
+🌐 **Portfolio:**  
+https://lamaranadiallo.com
+
+---
+
+Thanks for visiting my portfolio! 🚀
